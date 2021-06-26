@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+.login {
+    color: #303030;
+    margin: 0px auto;
+    width: 30%;
+    height: 30%;
+    background-color: lightgreen;
+    padding: 15px 10px 10px 0px;
+    border: #3c8c30 1px solid;
+    box-shadow: 5px 7px #3c8c30;
+}
+
+.logo img {
+    width: 100px;
+    height: 100px;
+    mix-blend-mode: multiply;
+    margin: 10px;
+}
+
+.login form {
+    padding: 10px;
+    width: 90%;
+    text-align: center;
+    margin: 0px auto;
+    font-weight: 500;
+}
+
+input {
+    margin: 3px;
+    padding: 3px;
+}
+
+label a {
+    font-style: italic;
+    color: #3c8c30;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+
+a:hover {
+    color: ghostwhite;
+}
+.errors
+{
+	color: red;
+	font-size: 10px;
+}

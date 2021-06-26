@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+table
+{
+	margin: 0 auto;
+	background-color: #e6ffe6;
+	border-radius: 5px;
+	border: 1px solid green;
+	height: 300px;
+
+}

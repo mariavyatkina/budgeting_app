@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+.maindiv *
+{
+	margin: 10px;
+}
+h2
+{
+	font-weight: 600;
+    color: #3c8c30;
+    margin: 10px;
+}
+
+
+label
+{
+	color:#3c8c30;
+	padding: 5px;
+	font-weight: bold;
+	
+}
+*
+{
+	text-align: left;
+}
+.form
+{
+	padding: 10px;
+	background-color: #e6ffe6;
+	color:#e6ffe6;
+	border: 2px solid #e6ffe6;
+	
+}
+
+#button
+{
+	margin-bottom: 0px;
+}
+.forminput
+{
+	padding: 10px;
+	border: 1px solid #045a08;
+	border-radius: 3px;
+	font-weight: bold;
+	
+}
+.hiddenProperties
+{
+	display: flex;
+}
+.hiddenProperties label
+{
+	flex: 1;
+	margin: 10px;
+}

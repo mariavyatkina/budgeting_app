@@ -1,0 +1,60 @@
+h4 {
+	color: #303030;
+	font-size: 20px;
+}
+
+.greeting h4 {
+	text-align: left;
+	margin-left: 70px;
+}
+
+.summary {
+	margin: 30px;
+}
+
+.monthlysummary {
+	display: flex;
+	margin: 20px;
+}
+
+.summarycontainer {
+	color: #303030;
+	border: #3c8c30 2px solid;
+	border-radius: 10px;
+	background-color: lightgreen;
+	padding: 20px 10px;
+	margin: 10px;
+	text-align: center;
+	font-size: 24px;
+	flex: 1;
+}
+.summaries
+{
+	display:flex;
+}
+.summaries table
+{
+	flex: 1;
+	margin: 10px;
+	background-color: #e6ffe6;
+	border-radius: 5px;
+	border: 1px solid green;
+	height: 300px;
+}
+.summaries thead, tfoot
+{
+	background-color: #99ff99;
+	font-weight: bold;
+}
+
+.amount {
+	padding: 10px;
+}
+
+.summarycontainer h2 {
+	color: darkred;
+}
+
+#button {
+	margin-bottom: 7px;
+}
